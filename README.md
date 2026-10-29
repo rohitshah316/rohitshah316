@@ -1,54 +1,86 @@
 <h1 align="center">Hi 👋, I'm Rohit Shah</h1>
-<h3 align="center">Frontend Developer, React & Next.js, Web App Builder</h3>
 
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/213147181?v=4" alt="rohitshah316" /> </p>
+<p align="center">
+  <a href="https://github.com/rohitshah316">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Node.js,+Express+%26+Next.js+Developer" alt="Typing animation" />
+  </a>
+</p>
 
-- 🎓 BCA 4th semester student at Kathmandu Model College (Tribhuvan University)
+<p align="center">
+  <a href="https://rohitshah.dev"><img src="https://img.shields.io/badge/Portfolio-rohitshah.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rohitshah316"><img src="https://img.shields.io/badge/LinkedIn-rohitshah316-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact.rohitshah.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- 🔭 I'm currently building a **Next.js Expense Tracker app** and my portfolio at [rohitshah.dev](https://rohitshah.dev)
+---
 
-- 🌱 I'm currently learning **TypeScript, Node.js, Express.js, MongoDB**
+### 👨‍💻 About Me
 
-- 👯 I'm looking to collaborate on **Full Stack Web Projects**
+- 🎓 BCA 5th semester student at Kathmandu Model College (Tribhuvan University)
 
-- 💬 Ask me about **React, Next.js, and frontend development**
+- 💼 **Full Stack Developer Intern** at **Crispr Coders** (remote), Oct 2026 – present
+
+- 🔭 Currently building **[TaskFlow](https://github.com/rohitshah316/taskflow-task-management-app)**, a full stack task management app with Next.js, TypeScript, Prisma and PostgreSQL (in progress)
+
+- 🌱 Going deeper into full stack development: authentication, relational database design, and API design
+
+- 🚀 Building a series of full stack projects, with more on the way (see below)
+
+- 💬 Ask me about **React, Next.js, and full stack web development**
 
 - 📫 How to reach me: **contact.rohitshah.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
 <p align="left">
-<a href="https://linkedin.com/in/rohitshah316" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitshah316" height="30" width="40" /></a>
-<a href="https://instagram.com/rohitshah3.16" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohitshah3.16" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+**Backend & Database**
+
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,firebase" alt="Backend skills" />
 </p>
 
-<h3 align="left">Featured Projects:</h3>
+**Tools & Deployment**
 
-- 💬 [Real-time Chat App](https://github.com/rohitshah316/Real-time-Chat-App) - React + Firebase Authentication, Firestore, custom hooks
-- 📊 [Dashboard App](https://github.com/rohitshah316/React-Dashboard-App) - React, Chart.js, Context API, dark mode
-- 💼 [Expense Tracker](https://github.com/rohitshah316/next-js-expense-tracker) - Next.js, Rechart, Context API
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,netlify" alt="Tools" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitshah316&show_icons=true&locale=en&layout=compact" alt="rohitshah316" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitshah316&show_icons=true&locale=en" alt="rohitshah316" /></p>
+### 🚀 Full Stack Project Series
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitshah316&" alt="rohitshah316" /></p>
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| [**TaskFlow**](https://github.com/rohitshah316/taskflow-task-management-app) | Kanban-style project and task manager with authentication and user-specific data | Next.js, TypeScript, Tailwind, Prisma, PostgreSQL | 🚧 In progress |
+| **ShopSphere** | E-commerce platform with a separate admin dashboard | Next.js, Express, PostgreSQL, Prisma | 📅 Planned |
+| **SupportDesk** | Multi-tenant customer support SaaS with roles and permissions | Next.js, Express, TypeScript, PostgreSQL, Prisma | 📅 Planned |
+
+---
+
+### 📁 Featured Projects
+
+- 💬 [Real-time Chat App](https://github.com/rohitshah316/Real-time-Chat-App): React + Firebase Authentication, Firestore, custom hooks
+- 📊 [Dashboard App](https://github.com/rohitshah316/React-Dashboard-App): React, Chart.js, Context API, dark mode
+- 💼 [Expense Tracker](https://github.com/rohitshah316/next-js-expense-tracker): Next.js, Recharts, Context API
+
+More projects at **[rohitshah.dev](https://rohitshah.dev)**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitshah316&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitshah316&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rohitshah316&hide_border=true" alt="GitHub streak" />
+</p>
